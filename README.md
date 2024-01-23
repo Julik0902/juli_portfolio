@@ -1,8 +1,6 @@
 # Portfolio 
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio
 # click to visit 
-
+## [LIVE LINK](https://julik0902.github.io/juli_portfolio/))
 
 - Responsive Personal Portfolio Website HTML CSS & JavaScript.
 - Contains animations when scrolling.
@@ -10,7 +8,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
+
+
 
