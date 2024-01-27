@@ -395,9 +395,15 @@ img {
   color: #fff;
   margin: 0 var(--mb-2);
 }
+.footer__icon:hover {
+  transform: translateY(-8%);
+  color: aqua;
+}
 .footer__copy {
   font-size: var(--smaller-font-size);
- 
+}
+.footer__copy:hover {
+  transform: translateY(-8%);
 }
 
 /* ===== MEDIA QUERIES=====*/
